@@ -1,0 +1,28 @@
+{
+    "aquariumData": [
+      {
+        "id": 1,
+        "commit": "This is a comment",
+        "name": "John Doe",
+        "age": 56
+      },
+      {
+        "id": 2,
+        "commit": "This is just a string",
+        "name": "Peter Parker",
+        "age": 28
+      },
+      {
+        "id": 3,
+        "body": "This is more the a string",
+        "name": "Mary Jane",
+        "age": 25
+      },
+      {
+        "id": 4,
+        "body": "This is an integer",
+        "name": "Harry Osbourne",
+        "age": 30
+      }
+    ]
+  }
